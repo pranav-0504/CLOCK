@@ -16,21 +16,17 @@ const Intervalid1 = setInterval(() => {
 
 
 // Now to Stop it after 10 seconds:
-setTimeout(() => {
+// setTimeout(() => {
     
-    // ab isme asa function call marni h jis se ruk jaye!
-    clearInterval(Intervalid1);
+//     // ab isme asa function call marni h jis se ruk jaye!
+//     clearInterval(Intervalid1);
     
-    //? console.log("9 seconds hogye bhai!");
+//     //? console.log("9 seconds hogye bhai!");
     
-}, 90000000000);       // jaan pujke ek bada number dal dia hai!
+// }, 9000000000);       // jaan pujke ek bada number dal dia hai!
 
 
-
-
-
-
-
+console.log("Main JS loaded");
 
 
 
