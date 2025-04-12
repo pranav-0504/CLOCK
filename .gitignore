@@ -1,5 +1,8 @@
-# to Exlude these folders
+# to Exlude these Files:
 
 **/Timing_based_events.js
 **/Date_time.js
 *.json
+
+# Folder Ignore:
+**/node_modules
