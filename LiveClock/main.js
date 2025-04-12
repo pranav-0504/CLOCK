@@ -23,7 +23,7 @@ setTimeout(() => {
     
     //? console.log("9 seconds hogye bhai!");
     
-}, 9000000000);       // jaan pujke ek bada number dal dia hai!
+}, 90000000000);       // jaan pujke ek bada number dal dia hai!
 
 
 
