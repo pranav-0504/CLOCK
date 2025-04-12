@@ -1,0 +1,4 @@
+# to Exlude these folders
+
+**/Timing_based_events.js
+**/Date_time.js
